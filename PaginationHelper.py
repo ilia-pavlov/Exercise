@@ -1,4 +1,5 @@
 import math
+# import math library to using math.ceil function to rounds a number Up to the nearest integer
 class PaginationHelper:
 
 	# The constructor take in an array of values and an integer indicating
